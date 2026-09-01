@@ -1,0 +1,1150 @@
+[
+  {
+    "id": 1,
+    "province_id": 1,
+    "province_name": "Bas-Uele",
+    "code": "CD5204",
+    "name": "Aketi"
+  },
+  {
+    "id": 2,
+    "province_id": 1,
+    "province_name": "Bas-Uele",
+    "code": "CD5207",
+    "name": "Ango"
+  },
+  {
+    "id": 3,
+    "province_id": 1,
+    "province_name": "Bas-Uele",
+    "code": "CD5209",
+    "name": "Bambesa"
+  },
+  {
+    "id": 4,
+    "province_id": 1,
+    "province_name": "Bas-Uele",
+    "code": "CD5206",
+    "name": "Bondo"
+  },
+  {
+    "id": 5,
+    "province_id": 1,
+    "province_name": "Bas-Uele",
+    "code": "CD5202",
+    "name": "Buta"
+  },
+  {
+    "id": 6,
+    "province_id": 1,
+    "province_name": "Bas-Uele",
+    "code": "CD5208",
+    "name": "Poko"
+  },
+  {
+    "id": 7,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4107",
+    "name": "Basankusu"
+  },
+  {
+    "id": 8,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4102",
+    "name": "Bikoro"
+  },
+  {
+    "id": 9,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4108",
+    "name": "Bolomba"
+  },
+  {
+    "id": 10,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4104",
+    "name": "Bomongo"
+  },
+  {
+    "id": 11,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4109",
+    "name": "Ingende"
+  },
+  {
+    "id": 12,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4103",
+    "name": "Lukolela"
+  },
+  {
+    "id": 13,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4105",
+    "name": "Makanza"
+  },
+  {
+    "id": 14,
+    "province_id": 2,
+    "province_name": "Équateur",
+    "code": "CD4101",
+    "name": "Mbandaka"
+  },
+  {
+    "id": 15,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7105",
+    "name": "Kambove"
+  },
+  {
+    "id": 16,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7107",
+    "name": "Kasenga"
+  },
+  {
+    "id": 17,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7102",
+    "name": "Kipushi"
+  },
+  {
+    "id": 18,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7106",
+    "name": "Likasi"
+  },
+  {
+    "id": 19,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7101",
+    "name": "Lubumbashi"
+  },
+  {
+    "id": 20,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7108",
+    "name": "Mitwaba"
+  },
+  {
+    "id": 21,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7109",
+    "name": "Pweto"
+  },
+  {
+    "id": 22,
+    "province_id": 3,
+    "province_name": "Haut-Katanga",
+    "code": "CD7104",
+    "name": "Sakania"
+  },
+  {
+    "id": 23,
+    "province_id": 4,
+    "province_name": "Haut-Lomami",
+    "code": "CD7306",
+    "name": "Bukama"
+  },
+  {
+    "id": 24,
+    "province_id": 4,
+    "province_name": "Haut-Lomami",
+    "code": "CD7304",
+    "name": "Kabongo"
+  },
+  {
+    "id": 25,
+    "province_id": 4,
+    "province_name": "Haut-Lomami",
+    "code": "CD7302",
+    "name": "Kamina"
+  },
+  {
+    "id": 26,
+    "province_id": 4,
+    "province_name": "Haut-Lomami",
+    "code": "CD7303",
+    "name": "Kaniama"
+  },
+  {
+    "id": 27,
+    "province_id": 4,
+    "province_name": "Haut-Lomami",
+    "code": "CD7305",
+    "name": "Malemba-Nkulu"
+  },
+  {
+    "id": 28,
+    "province_id": 5,
+    "province_name": "Haut-Uele",
+    "code": "CD5305",
+    "name": "Dungu"
+  },
+  {
+    "id": 29,
+    "province_id": 5,
+    "province_name": "Haut-Uele",
+    "code": "CD5307",
+    "name": "Faradje"
+  },
+  {
+    "id": 30,
+    "province_id": 5,
+    "province_name": "Haut-Uele",
+    "code": "CD5303",
+    "name": "Niangara"
+  },
+  {
+    "id": 31,
+    "province_id": 5,
+    "province_name": "Haut-Uele",
+    "code": "CD5302",
+    "name": "Rungu"
+  },
+  {
+    "id": 32,
+    "province_id": 5,
+    "province_name": "Haut-Uele",
+    "code": "CD5311",
+    "name": "Wamba"
+  },
+  {
+    "id": 33,
+    "province_id": 5,
+    "province_name": "Haut-Uele",
+    "code": "CD5309",
+    "name": "Watsa"
+  },
+  {
+    "id": 34,
+    "province_id": 6,
+    "province_name": "Ituri",
+    "code": "CD5409",
+    "name": "Aru"
+  },
+  {
+    "id": 35,
+    "province_id": 6,
+    "province_name": "Ituri",
+    "code": "CD5405",
+    "name": "Djugu"
+  },
+  {
+    "id": 36,
+    "province_id": 6,
+    "province_name": "Ituri",
+    "code": "CD5402",
+    "name": "Irumu"
+  },
+  {
+    "id": 37,
+    "province_id": 6,
+    "province_name": "Ituri",
+    "code": "CD5407",
+    "name": "Mahagi"
+  },
+  {
+    "id": 38,
+    "province_id": 6,
+    "province_name": "Ituri",
+    "code": "CD5403",
+    "name": "Mambasa"
+  },
+  {
+    "id": 39,
+    "province_id": 7,
+    "province_name": "Kasaï",
+    "code": "CD9208",
+    "name": "Dekese"
+  },
+  {
+    "id": 40,
+    "province_id": 7,
+    "province_name": "Kasaï",
+    "code": "CD9205",
+    "name": "Ilebo"
+  },
+  {
+    "id": 41,
+    "province_id": 7,
+    "province_name": "Kasaï",
+    "code": "CD9202",
+    "name": "Kamonia"
+  },
+  {
+    "id": 42,
+    "province_id": 7,
+    "province_name": "Kasaï",
+    "code": "CD9204",
+    "name": "Luebo"
+  },
+  {
+    "id": 43,
+    "province_id": 7,
+    "province_name": "Kasaï",
+    "code": "CD9207",
+    "name": "Mweka"
+  },
+  {
+    "id": 44,
+    "province_id": 8,
+    "province_name": "Kasaï-Central",
+    "code": "CD9106",
+    "name": "Demba"
+  },
+  {
+    "id": 45,
+    "province_id": 8,
+    "province_name": "Kasaï-Central",
+    "code": "CD9102",
+    "name": "Dibaya"
+  },
+  {
+    "id": 46,
+    "province_id": 8,
+    "province_name": "Kasaï-Central",
+    "code": "CD9107",
+    "name": "Dimbelenge"
+  },
+  {
+    "id": 47,
+    "province_id": 8,
+    "province_name": "Kasaï-Central",
+    "code": "CD9101",
+    "name": "Kananga"
+  },
+  {
+    "id": 48,
+    "province_id": 8,
+    "province_name": "Kasaï-Central",
+    "code": "CD9105",
+    "name": "Kazumba"
+  },
+  {
+    "id": 49,
+    "province_id": 8,
+    "province_name": "Kasaï-Central",
+    "code": "CD9104",
+    "name": "Luiza"
+  },
+  {
+    "id": 50,
+    "province_id": 9,
+    "province_name": "Kasaï-Oriental",
+    "code": "CD8207",
+    "name": "Kabeya-Kamwanga"
+  },
+  {
+    "id": 51,
+    "province_id": 9,
+    "province_name": "Kasaï-Oriental",
+    "code": "CD8209",
+    "name": "Katanda"
+  },
+  {
+    "id": 52,
+    "province_id": 9,
+    "province_name": "Kasaï-Oriental",
+    "code": "CD8208",
+    "name": "Lupatapata"
+  },
+  {
+    "id": 53,
+    "province_id": 9,
+    "province_name": "Kasaï-Oriental",
+    "code": "CD8201",
+    "name": "Mbuji-Mayi"
+  },
+  {
+    "id": 54,
+    "province_id": 9,
+    "province_name": "Kasaï-Oriental",
+    "code": "CD8205",
+    "name": "Miabi"
+  },
+  {
+    "id": 55,
+    "province_id": 9,
+    "province_name": "Kasaï-Oriental",
+    "code": "CD8202",
+    "name": "Tshilenge"
+  },
+  {
+    "id": 56,
+    "province_id": 10,
+    "province_name": "Kinshasa",
+    "code": "CD1000",
+    "name": "Kinshasa"
+  },
+  {
+    "id": 57,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2002",
+    "name": "Boma"
+  },
+  {
+    "id": 58,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2015",
+    "name": "Kasangulu"
+  },
+  {
+    "id": 59,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2019",
+    "name": "Kimvula"
+  },
+  {
+    "id": 60,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2005",
+    "name": "Lukula"
+  },
+  {
+    "id": 61,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2010",
+    "name": "Luozi"
+  },
+  {
+    "id": 62,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2017",
+    "name": "Madimba"
+  },
+  {
+    "id": 63,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2001",
+    "name": "Matadi"
+  },
+  {
+    "id": 64,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2013",
+    "name": "Mbanza-Ngungu"
+  },
+  {
+    "id": 65,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2003",
+    "name": "Moanda"
+  },
+  {
+    "id": 66,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2009",
+    "name": "Seke-Banza"
+  },
+  {
+    "id": 67,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2011",
+    "name": "Songololo"
+  },
+  {
+    "id": 68,
+    "province_id": 11,
+    "province_name": "Kongo-Central",
+    "code": "CD2007",
+    "name": "Tshela"
+  },
+  {
+    "id": 69,
+    "province_id": 12,
+    "province_name": "Kwango",
+    "code": "CD3103",
+    "name": "Feshi"
+  },
+  {
+    "id": 70,
+    "province_id": 12,
+    "province_name": "Kwango",
+    "code": "CD3105",
+    "name": "Kahemba"
+  },
+  {
+    "id": 71,
+    "province_id": 12,
+    "province_name": "Kwango",
+    "code": "CD3106",
+    "name": "Kasongo-Lunda"
+  },
+  {
+    "id": 72,
+    "province_id": 12,
+    "province_name": "Kwango",
+    "code": "CD3102",
+    "name": "Kenge"
+  },
+  {
+    "id": 73,
+    "province_id": 12,
+    "province_name": "Kwango",
+    "code": "CD3108",
+    "name": "Popokabaka"
+  },
+  {
+    "id": 74,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3202",
+    "name": "Bagata"
+  },
+  {
+    "id": 75,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3201",
+    "name": "Bandundu"
+  },
+  {
+    "id": 76,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3204",
+    "name": "Bulungu"
+  },
+  {
+    "id": 77,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3210",
+    "name": "Gungu"
+  },
+  {
+    "id": 78,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3206",
+    "name": "Idiofa"
+  },
+  {
+    "id": 79,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3203",
+    "name": "Kikwit"
+  },
+  {
+    "id": 80,
+    "province_id": 13,
+    "province_name": "Kwilu",
+    "code": "CD3212",
+    "name": "Masi-Manimba"
+  },
+  {
+    "id": 81,
+    "province_id": 14,
+    "province_name": "Lomami",
+    "code": "CD8102",
+    "name": "Kabinda"
+  },
+  {
+    "id": 82,
+    "province_id": 14,
+    "province_name": "Lomami",
+    "code": "CD8105",
+    "name": "Kamiji"
+  },
+  {
+    "id": 83,
+    "province_id": 14,
+    "province_name": "Lomami",
+    "code": "CD8108",
+    "name": "Lubao"
+  },
+  {
+    "id": 84,
+    "province_id": 14,
+    "province_name": "Lomami",
+    "code": "CD8104",
+    "name": "Luilu"
+  },
+  {
+    "id": 85,
+    "province_id": 14,
+    "province_name": "Lomami",
+    "code": "CD8103",
+    "name": "Mwene-Ditu"
+  },
+  {
+    "id": 86,
+    "province_id": 14,
+    "province_name": "Lomami",
+    "code": "CD8106",
+    "name": "Ngandajika"
+  },
+  {
+    "id": 87,
+    "province_id": 15,
+    "province_name": "Lualaba",
+    "code": "CD7205",
+    "name": "Dilolo"
+  },
+  {
+    "id": 88,
+    "province_id": 15,
+    "province_name": "Lualaba",
+    "code": "CD7207",
+    "name": "Kapanga"
+  },
+  {
+    "id": 89,
+    "province_id": 15,
+    "province_name": "Lualaba",
+    "code": "CD7203",
+    "name": "Lubudi"
+  },
+  {
+    "id": 90,
+    "province_id": 15,
+    "province_name": "Lualaba",
+    "code": "CD7202",
+    "name": "Mutshatsha"
+  },
+  {
+    "id": 91,
+    "province_id": 15,
+    "province_name": "Lualaba",
+    "code": "CD7206",
+    "name": "Sandoa"
+  },
+  {
+    "id": 92,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3308",
+    "name": "Bolobo"
+  },
+  {
+    "id": 93,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3302",
+    "name": "Inongo"
+  },
+  {
+    "id": 94,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3303",
+    "name": "Kiri"
+  },
+  {
+    "id": 95,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3306",
+    "name": "Kutu"
+  },
+  {
+    "id": 96,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3307",
+    "name": "Kwamouth"
+  },
+  {
+    "id": 97,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3311",
+    "name": "Mushie"
+  },
+  {
+    "id": 98,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3304",
+    "name": "Oshwe"
+  },
+  {
+    "id": 99,
+    "province_id": 16,
+    "province_name": "Mai-Ndombe",
+    "code": "CD3310",
+    "name": "Yumbi"
+  },
+  {
+    "id": 100,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6309",
+    "name": "Kabambare"
+  },
+  {
+    "id": 101,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6302",
+    "name": "Kailo"
+  },
+  {
+    "id": 102,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6311",
+    "name": "Kasongo"
+  },
+  {
+    "id": 103,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6313",
+    "name": "Kibombo"
+  },
+  {
+    "id": 104,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6301",
+    "name": "Kindu"
+  },
+  {
+    "id": 105,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6305",
+    "name": "Lubutu"
+  },
+  {
+    "id": 106,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6307",
+    "name": "Pangi"
+  },
+  {
+    "id": 107,
+    "province_id": 17,
+    "province_name": "Maniema",
+    "code": "CD6303",
+    "name": "Punia"
+  },
+  {
+    "id": 108,
+    "province_id": 18,
+    "province_name": "Mongala",
+    "code": "CD4405",
+    "name": "Bongandanga"
+  },
+  {
+    "id": 109,
+    "province_id": 18,
+    "province_name": "Mongala",
+    "code": "CD4404",
+    "name": "Bumba"
+  },
+  {
+    "id": 110,
+    "province_id": 18,
+    "province_name": "Mongala",
+    "code": "CD4402",
+    "name": "Lisala"
+  },
+  {
+    "id": 111,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6109",
+    "name": "Beni"
+  },
+  {
+    "id": 112,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6110",
+    "name": "Butembo"
+  },
+  {
+    "id": 113,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6101",
+    "name": "Goma"
+  },
+  {
+    "id": 114,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6105",
+    "name": "Lubero"
+  },
+  {
+    "id": 115,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6103",
+    "name": "Masisi"
+  },
+  {
+    "id": 116,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6102",
+    "name": "Nyiragongo"
+  },
+  {
+    "id": 117,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6107",
+    "name": "Oïcha"
+  },
+  {
+    "id": 118,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6111",
+    "name": "Rutshuru"
+  },
+  {
+    "id": 119,
+    "province_id": 19,
+    "province_name": "Nord-Kivu",
+    "code": "CD6104",
+    "name": "Walikale"
+  },
+  {
+    "id": 120,
+    "province_id": 20,
+    "province_name": "Nord-Ubangi",
+    "code": "CD4306",
+    "name": "Bosobolo"
+  },
+  {
+    "id": 121,
+    "province_id": 20,
+    "province_name": "Nord-Ubangi",
+    "code": "CD4305",
+    "name": "Businga"
+  },
+  {
+    "id": 122,
+    "province_id": 20,
+    "province_name": "Nord-Ubangi",
+    "code": "CD4301",
+    "name": "Gbadolite"
+  },
+  {
+    "id": 123,
+    "province_id": 20,
+    "province_name": "Nord-Ubangi",
+    "code": "CD4302",
+    "name": "Mobayi-Mbongo"
+  },
+  {
+    "id": 124,
+    "province_id": 20,
+    "province_name": "Nord-Ubangi",
+    "code": "CD4304",
+    "name": "Yakoma"
+  },
+  {
+    "id": 125,
+    "province_id": 21,
+    "province_name": "Sankuru",
+    "code": "CD8308",
+    "name": "Katako Kombe"
+  },
+  {
+    "id": 126,
+    "province_id": 21,
+    "province_name": "Sankuru",
+    "code": "CD8306",
+    "name": "Kole"
+  },
+  {
+    "id": 127,
+    "province_id": 21,
+    "province_name": "Sankuru",
+    "code": "CD8303",
+    "name": "Lodja"
+  },
+  {
+    "id": 128,
+    "province_id": 21,
+    "province_name": "Sankuru",
+    "code": "CD8307",
+    "name": "Lomela"
+  },
+  {
+    "id": 129,
+    "province_id": 21,
+    "province_name": "Sankuru",
+    "code": "CD8309",
+    "name": "Lubefu"
+  },
+  {
+    "id": 130,
+    "province_id": 21,
+    "province_name": "Sankuru",
+    "code": "CD8302",
+    "name": "Lusambo"
+  },
+  {
+    "id": 131,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6201",
+    "name": "Bukavu"
+  },
+  {
+    "id": 132,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6210",
+    "name": "Fizi"
+  },
+  {
+    "id": 133,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6206",
+    "name": "Idjwi"
+  },
+  {
+    "id": 134,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6202",
+    "name": "Kabare"
+  },
+  {
+    "id": 135,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6205",
+    "name": "Kalehe"
+  },
+  {
+    "id": 136,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6212",
+    "name": "Mwenga"
+  },
+  {
+    "id": 137,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6203",
+    "name": "Shabunda"
+  },
+  {
+    "id": 138,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6208",
+    "name": "Uvira"
+  },
+  {
+    "id": 139,
+    "province_id": 22,
+    "province_name": "Sud-Kivu",
+    "code": "CD6207",
+    "name": "Walungu"
+  },
+  {
+    "id": 140,
+    "province_id": 23,
+    "province_name": "Sud-Ubangi",
+    "code": "CD4203",
+    "name": "Budjala"
+  },
+  {
+    "id": 141,
+    "province_id": 23,
+    "province_name": "Sud-Ubangi",
+    "code": "CD4202",
+    "name": "Gemena"
+  },
+  {
+    "id": 142,
+    "province_id": 23,
+    "province_name": "Sud-Ubangi",
+    "code": "CD4204",
+    "name": "Kungu"
+  },
+  {
+    "id": 143,
+    "province_id": 23,
+    "province_name": "Sud-Ubangi",
+    "code": "CD4205",
+    "name": "Libenge"
+  },
+  {
+    "id": 144,
+    "province_id": 23,
+    "province_name": "Sud-Ubangi",
+    "code": "CD4206",
+    "name": "Zongo"
+  },
+  {
+    "id": 145,
+    "province_id": 24,
+    "province_name": "Tanganyika",
+    "code": "CD7407",
+    "name": "Kabalo"
+  },
+  {
+    "id": 146,
+    "province_id": 24,
+    "province_name": "Tanganyika",
+    "code": "CD7402",
+    "name": "Kalemie"
+  },
+  {
+    "id": 147,
+    "province_id": 24,
+    "province_name": "Tanganyika",
+    "code": "CD7409",
+    "name": "Kongolo"
+  },
+  {
+    "id": 148,
+    "province_id": 24,
+    "province_name": "Tanganyika",
+    "code": "CD7406",
+    "name": "Manono"
+  },
+  {
+    "id": 149,
+    "province_id": 24,
+    "province_name": "Tanganyika",
+    "code": "CD7404",
+    "name": "Moba"
+  },
+  {
+    "id": 150,
+    "province_id": 24,
+    "province_name": "Tanganyika",
+    "code": "CD7410",
+    "name": "Nyunzu"
+  },
+  {
+    "id": 151,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5111",
+    "name": "Bafwasende"
+  },
+  {
+    "id": 152,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5110",
+    "name": "Banalia"
+  },
+  {
+    "id": 153,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5109",
+    "name": "Basoko"
+  },
+  {
+    "id": 154,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5105",
+    "name": "Isangi"
+  },
+  {
+    "id": 155,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5101",
+    "name": "Kisangani"
+  },
+  {
+    "id": 156,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5103",
+    "name": "Opala"
+  },
+  {
+    "id": 157,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5102",
+    "name": "Ubundu"
+  },
+  {
+    "id": 158,
+    "province_id": 25,
+    "province_name": "Tshopo",
+    "code": "CD5107",
+    "name": "Yahuma"
+  },
+  {
+    "id": 159,
+    "province_id": 26,
+    "province_name": "Tshuapa",
+    "code": "CD4503",
+    "name": "Befale"
+  },
+  {
+    "id": 160,
+    "province_id": 26,
+    "province_name": "Tshuapa",
+    "code": "CD4502",
+    "name": "Boende"
+  },
+  {
+    "id": 161,
+    "province_id": 26,
+    "province_name": "Tshuapa",
+    "code": "CD4506",
+    "name": "Bokungu"
+  },
+  {
+    "id": 162,
+    "province_id": 26,
+    "province_name": "Tshuapa",
+    "code": "CD4504",
+    "name": "Djolu"
+  },
+  {
+    "id": 163,
+    "province_id": 26,
+    "province_name": "Tshuapa",
+    "code": "CD4505",
+    "name": "Ikela"
+  },
+  {
+    "id": 164,
+    "province_id": 26,
+    "province_name": "Tshuapa",
+    "code": "CD4507",
+    "name": "Monkoto"
+  }
+]
